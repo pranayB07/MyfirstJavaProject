@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="name" value="pranay bhaskar"></parameter>
+  <parameter name="age" value="25"></parameter>
+  <parameter name="place" value="Hyderabad"></parameter>
+  <groups>
+  <run>
+  <include name="2nd"></include>
+  </run>
+  </groups>
+    <classes>
+      <class name="testNg_apache.Testng"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

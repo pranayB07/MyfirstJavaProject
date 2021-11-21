@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-17T16:58:57 IST" name="Default suite" finished-at="2021-11-17T16:58:57 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2021-11-17T16:58:57 IST" name="Default test" finished-at="2021-11-17T16:58:57 IST" duration-ms="86">
+      <class name="SuperKeyword.Bulldog">
+        <test-method signature="callingSuperClassMethods()[pri:0, instance:SuperKeyword.Bulldog@3972a855]" started-at="2021-11-17T16:58:57 IST" name="callingSuperClassMethods" finished-at="2021-11-17T16:58:57 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callingSuperClassMethods -->
+      </class> <!-- SuperKeyword.Bulldog -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
